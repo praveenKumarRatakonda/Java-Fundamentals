@@ -5,7 +5,5 @@ class Solution {
             int sum = n1+n2;
             System.out.println("The sum of " + args[0] + " and "+ args[1] +  " is " + sum);
         }
- 
-
-    }
+  }
 }
