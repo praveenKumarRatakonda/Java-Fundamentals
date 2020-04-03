@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/**
- *  Write a program to reverse a given number and print
- */
-
 class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
