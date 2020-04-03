@@ -1,11 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Write a program to print the sum of the elements of the array with the given below condition.
- * If the array has 6 and 7 in succeeding orders, ignore 6 and 7 and the numbers between them for
- * the calculation of sum.
- */
-
 class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
