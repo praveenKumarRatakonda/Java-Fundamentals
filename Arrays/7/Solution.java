@@ -1,6 +1,3 @@
-/**
- * Write a program to remove the duplicate elements in an array and print
- */
 
 class Solution {
     public static void main(String[] args) {
