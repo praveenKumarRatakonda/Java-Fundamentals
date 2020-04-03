@@ -1,6 +1,3 @@
-/**
- * Write a program to initialize an array and print them in a sorted fashion
- */
 
 class Solution {
     public static void main(String[] args) {
