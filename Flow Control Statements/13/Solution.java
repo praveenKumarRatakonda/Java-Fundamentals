@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *  Write a program to print prime numbers between 10 and 99.
- */
-
 class Solution {
     public static void main(String[] args) {
         for(int i=10; i<99; i++) {
