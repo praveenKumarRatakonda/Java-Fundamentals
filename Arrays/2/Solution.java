@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *  Write a program to initialize an integer array and find the maximum and minimum value of an array
- */
-
 class Solution {
     public static void main(String[] args) {
         int arr[] = new int[10];
