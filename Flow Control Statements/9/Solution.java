@@ -1,8 +1,4 @@
-import java.util.Scanner;;
-
-/**
- * Write a program to print month in words, based on input month in numbers
- */
+import java.util.Scanner;
 
 class Solution {
     public static void main(String[] args) {
