@@ -1,10 +1,4 @@
 import java.util.Scanner;
-
-/**
- *  Write a program to print the color name, based on color code. If color code in not valid
- *  then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
- */
-
 class Solution {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
