@@ -1,6 +1,3 @@
-/**
- *  Write a program to print the element of an array that has occurred the highest number of times
- */
 
 class Solution {
     public static void main(String[] args) {
