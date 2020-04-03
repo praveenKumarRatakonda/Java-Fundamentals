@@ -1,7 +1,7 @@
 import java.util.Scanner;
-/**
- * Write a program to check if a given number is odd or even.
- */
+
+
+
 
 class Solution {
     public static void main(String[] args) {
