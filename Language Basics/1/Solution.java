@@ -5,8 +5,5 @@ class Solution {
         if(args.length == 2) {
             System.out.println(args[0] + " Technologies " + args[1]);
         }
-        
    }
-
-
 }
