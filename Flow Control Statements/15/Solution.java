@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Write a program to add all the values in a given number and print. Ex: 1234->10
- */
-
 class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
