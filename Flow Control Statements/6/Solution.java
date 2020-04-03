@@ -23,7 +23,6 @@ class Solution {
                     System.out.println("You are too young or too old to exist.");
             }
         }
-        else
-            System.out.println("usage: java Solution gender age");
+
     }
 }
