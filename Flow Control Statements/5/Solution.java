@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-/**
- *  Intialize a character variable in a program and if the value is alphabet then print "Alphabet"
- *  if it’s a number then print "Digit" and for other characters print "Special Character"
- */
+
+
+
 
 class Solution {
     public static void main(String[] args) {
