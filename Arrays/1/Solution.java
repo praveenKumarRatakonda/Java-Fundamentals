@@ -1,7 +1,3 @@
-/**
- *  Write a program to initialize an integer array and print the sum and average of the array
- */
-
 class Solution {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 5, 6, 7 };
