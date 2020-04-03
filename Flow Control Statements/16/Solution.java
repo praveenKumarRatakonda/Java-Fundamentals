@@ -1,11 +1,4 @@
 import java.util.Scanner;
-
-/**
- *  Write a program to print * in Floyds format (using for and while loop)
- *    *
- *    *  *
- *    *  *   *
- */
 class Solution {
     public static void main(String[] args) {
         int n = 0;
