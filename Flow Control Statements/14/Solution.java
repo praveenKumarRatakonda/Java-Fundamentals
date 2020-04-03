@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Write a Java program to find if the given number is prime or not.
- */
-
 class Solution {
     public static void main(String[] args) {
         int n = 0;
